@@ -25,3 +25,29 @@ h2.title {
 .numbers {
     font-weight: bold;
 }
+
+.presentation {
+	margin: 10rem auto;
+}
+
+#name {
+	font-weight: 800;
+	font-size: 38px;
+	line-height: 43px;
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+	color: #000C24;
+	-webkit-text-stroke: 0.5px #fff;
+}
+
+#role {
+	color: #fff;
+	margin-top: 1rem;
+	margin-bottom: 1.5rem
+	;
+}
+
+.logos {
+	display: flex;
+	gap: 1rem
+}
