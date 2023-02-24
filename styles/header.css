@@ -1,14 +1,14 @@
-nav {
-    height: 4rem;
-    background: rgba(0, 12, 36, 0.7);
+header {
     position: sticky;
-
+    top: 0;
 }
 
 .container1 {
     display: flex;
     justify-content: space-around;
     flex-wrap: nowrap;
+    height: 4rem;
+    background: rgba(0, 12, 36, 0.7);
 }
 
 .menu {
