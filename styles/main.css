@@ -1,0 +1,27 @@
+.title {
+    color: darkblue;
+    font-size: 56px;
+    margin-bottom: 5px; 
+    margin-top: 5px;
+}
+
+h2.title {
+    font-size: 32px;
+}
+
+.back {
+    color: gray;
+}
+
+.contact {
+    color: blue
+}
+
+.name {
+    color: blue;
+    font-weight: bold;
+}
+
+.numbers {
+    font-weight: bold;
+}
