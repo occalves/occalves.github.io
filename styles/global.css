@@ -5,3 +5,7 @@
     font-family: 'Open Sans', sans-serif;
     color: #434343;
 }
+
+body {
+    margin: 1rem 2rem;
+}
