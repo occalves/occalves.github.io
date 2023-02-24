@@ -2,8 +2,6 @@
 
 #### Programador web
 
-## Página em construção
-
 ### Um pouco sobre mim:
 
 Eu estou iniciando num curso de programação web e pretendo usar essa página como portfólio e testes.
