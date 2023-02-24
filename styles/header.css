@@ -1,12 +1,14 @@
 nav {
-    height: 7rem;
+    height: 4rem;
     background: rgba(0, 12, 36, 0.7);
     position: sticky;
+
 }
 
 .container1 {
     display: flex;
-    margin-left: -2.6rem; 
+    justify-content: space-around;
+    flex-wrap: nowrap;
 }
 
 .menu {
@@ -14,8 +16,6 @@ nav {
     align-items: center;
     justify-content: center;
     width: 9rem;
-    height: 6.9rem;
-    flex-wrap: nowrap;
 }
 
 .menu a {
