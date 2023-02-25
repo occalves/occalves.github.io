@@ -1,41 +1,40 @@
-header {
+/* header {
     position: sticky;
     top: 0;
-}
+} */
 
 .container1 {
     display: flex;
     justify-content: space-around;
-    flex-wrap: nowrap;
+    align-items: center;
     height: 4rem;
-    background: rgba(0, 12, 36, 0.7);
+    padding: 1rem auto;
+    /* background: rgba(0, 12, 36, 0.7); */
 }
 
 .menu {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 9rem;
+    height: 4rem;
+    width: 10rem;
 }
 
 .menu a {
     text-decoration: none;
     color: #928A97;
-    position: relative;
     font-size: 1.1rem;
 }
 
 .menu:hover {
     background-image: url(../images/selectedMenu.png);
-    background-position: 0.7rem 0.6rem; 
+    background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
     cursor: pointer;
-    z-index: 2;
 }
 
 .menu:hover > a {
     color: #F44336;
     font-weight: 700;
 }
-
