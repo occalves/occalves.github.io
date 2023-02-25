@@ -9,12 +9,34 @@
 
 body {
     background-color: #E5E5E5;
+    color-scheme: light dark;
     box-sizing: 100vh;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 2.25rem;
+}
+
+.title {
+    color: #F44336;
 }
 
 h2 {
     font-weight: 600;
-    font-size: 24px;
-    line-height: 27px;
+    font-size: 1.5rem;
+    line-height: 1.2rem;
     /* color: #000C24; */
+}
+
+p {
+    font-weight: 400;
+    font-size: 1.5rem;
+    /* line-height: 170%; */
+}
+
+.text {
+    color: #000C24;
+    text-align: justify;
 }

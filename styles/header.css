@@ -1,7 +1,9 @@
-/* header {
-    position: sticky;
-    top: 0;
-} */
+header {
+    /* position: sticky;
+    top: 0; */
+    width: 100vw;
+    display: block;
+}
 
 .container1 {
     display: flex;
@@ -24,6 +26,7 @@
     text-decoration: none;
     color: #928A97;
     font-size: 1.1rem;
+	text-shadow: 0.5px 0.5px 0 #000C24, -0.5px -0.5px 0 #000C24, 0.5px -0.5px 0 #000C24, -0.5px 0.5px 0 #000C24;
 }
 
 .menu:hover {

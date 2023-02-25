@@ -15,20 +15,28 @@ footer .logos img {
     height: 1.1rem;
 }
 
+footer .cr img {
+    height: 0.75rem;
+}
+
 .id {
     color: #928A97;
     font-size: 1.1rem;
     font-weight: 600;
+    line-height: 1.1rem;
 }
 
 .cr {
-    color: #928A97;
-    font-size: 0.9rem;
-    font-weight: 600;
     display: flex;
     align-items: center;
     gap: 0.4rem;
 }
 
+.cr p {
+    color: #928A97;
+    font-weight: 600;
+    font-size: 0.9rem;
+    line-height: 0.9rem;
+}
 
 
